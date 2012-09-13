@@ -5,6 +5,10 @@ This is a lightweight wrapper for Dean Clatworthy's IMDB API.
 
 http://www.deanclatworthy.com/imdb/
 
+## Installation
+
+    gem install imdb_api_lite
+
 ## Usage
 
     movie = Imdb.search("citizen kane")
